@@ -1,1 +1,1 @@
-web: node /
+web: gunicorn run:app
