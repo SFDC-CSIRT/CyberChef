@@ -1,1 +1,1 @@
-web: node cyberchef.htm
+web: node CyberChef.js
