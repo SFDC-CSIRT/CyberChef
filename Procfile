@@ -1,2 +1,1 @@
-web: node build/node/CyberChef.js
-webpack: bin/webpack-dev-server
+web: node ./src/web/html/index.html
