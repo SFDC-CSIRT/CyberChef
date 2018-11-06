@@ -1,1 +1,1 @@
-web: ./src/web/html/index.html
+web: npm install
