@@ -1,1 +1,1 @@
-web: npm install grunt; npm start --production
+web: node src/web/index.js
