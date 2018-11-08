@@ -1,1 +1,1 @@
-web: npm install; npm start --production
+web: npm install -g grunt-cli; npm start --production
