@@ -1,1 +1,1 @@
-web: npm install && grunt prod; node build/prod/cyberchef.htm
+web: npm start --production
