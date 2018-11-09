@@ -133,6 +133,7 @@
     "zlibjs": "^0.3.1"
   },
   "scripts": {
+    "postinstall": "grunt"
     "start": "grunt dev",
     "build": "grunt prod",
     "test": "grunt test",
