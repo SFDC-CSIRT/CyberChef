@@ -24,7 +24,7 @@
     "data analysis"
   ],
   "engines": {
-    "node": "11.0.0"
+    "node": "10.0.0"
   },
   "repository": {
     "type": "git",
@@ -133,7 +133,7 @@
     "zlibjs": "^0.3.1"
   },
   "scripts": {
-    "start": "node Gruntfile.js",
+    "start": "npm install",
     "build": "grunt prod",
     "test": "grunt test",
     "docs": "grunt docs",
