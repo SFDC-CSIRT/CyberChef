@@ -1,1 +1,1 @@
-web: npm start --production; node build/node/CyberChef.js;
+web: npm start --production;
