@@ -128,7 +128,7 @@
   },
   "scripts": {
     "postinstall": "grunt",
-    "start": "grunt dev",
+    "start": "grunt prod",
     "build": "grunt prod",
     "test": "grunt test",
     "docs": "grunt docs",
