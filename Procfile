@@ -1,1 +1,1 @@
-web: npm install -g grunt-cli && grunt prod; node cyberchef.htm
+web: npm install && grunt prod; node cyberchef.htm
